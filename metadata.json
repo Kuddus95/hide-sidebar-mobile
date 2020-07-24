@@ -1,0 +1,11 @@
+{
+	"name": "Hide Sidebar Mobile",
+	"uri": "https://github.com/kuddus95/",
+	"description": "Hide Sidebar of SnowFlat theme in mobile device",
+	"version": "1.8",
+	"date": "2020-06-18",
+	"author": "Aman", 
+	"author_uri": "http://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
